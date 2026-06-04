@@ -1,7 +1,7 @@
 window.STICKER_MANIFEST = {
-    "generatedAt":  "2026-06-05 00:27:57",
-    "collectionCount":  26,
-    "fileCount":  406,
+    "generatedAt":  "2026-06-05 04:26:50",
+    "collectionCount":  24,
+    "fileCount":  384,
     "collections":  [
                         {
                             "title":  "동국대학교 120주년 기념 반가사유상 1",
@@ -1496,132 +1496,6 @@ window.STICKER_MANIFEST = {
                                               "name":  "16_r4_c4.png",
                                               "path":  "stickers/부처님-불법전법-8/16_r4_c4.png",
                                               "size":  191342
-                                          }
-                                      ]
-                        },
-                        {
-                            "title":  "아기코끼리이미지 1",
-                            "slug":  "아기코끼리이미지-1",
-                            "category":  "dharma",
-                            "zipPath":  "downloads/아기코끼리이미지-1.zip",
-                            "files":  [
-                                          {
-                                              "name":  "01_r1_c1.png",
-                                              "path":  "stickers/아기코끼리이미지-1/01_r1_c1.png",
-                                              "size":  302973
-                                          },
-                                          {
-                                              "name":  "02_r1_c2.png",
-                                              "path":  "stickers/아기코끼리이미지-1/02_r1_c2.png",
-                                              "size":  331639
-                                          },
-                                          {
-                                              "name":  "03_r1_c3.png",
-                                              "path":  "stickers/아기코끼리이미지-1/03_r1_c3.png",
-                                              "size":  325144
-                                          },
-                                          {
-                                              "name":  "04_r2_c1.png",
-                                              "path":  "stickers/아기코끼리이미지-1/04_r2_c1.png",
-                                              "size":  270242
-                                          },
-                                          {
-                                              "name":  "05_r2_c2.png",
-                                              "path":  "stickers/아기코끼리이미지-1/05_r2_c2.png",
-                                              "size":  316479
-                                          },
-                                          {
-                                              "name":  "06_r2_c3.png",
-                                              "path":  "stickers/아기코끼리이미지-1/06_r2_c3.png",
-                                              "size":  322609
-                                          }
-                                      ]
-                        },
-                        {
-                            "title":  "아기코끼리이미지 2",
-                            "slug":  "아기코끼리이미지-2",
-                            "category":  "dharma",
-                            "zipPath":  "downloads/아기코끼리이미지-2.zip",
-                            "files":  [
-                                          {
-                                              "name":  "01_r1_c1.png",
-                                              "path":  "stickers/아기코끼리이미지-2/01_r1_c1.png",
-                                              "size":  145760
-                                          },
-                                          {
-                                              "name":  "02_r1_c2.png",
-                                              "path":  "stickers/아기코끼리이미지-2/02_r1_c2.png",
-                                              "size":  143000
-                                          },
-                                          {
-                                              "name":  "03_r1_c3.png",
-                                              "path":  "stickers/아기코끼리이미지-2/03_r1_c3.png",
-                                              "size":  164970
-                                          },
-                                          {
-                                              "name":  "04_r1_c4.png",
-                                              "path":  "stickers/아기코끼리이미지-2/04_r1_c4.png",
-                                              "size":  170342
-                                          },
-                                          {
-                                              "name":  "05_r2_c1.png",
-                                              "path":  "stickers/아기코끼리이미지-2/05_r2_c1.png",
-                                              "size":  168048
-                                          },
-                                          {
-                                              "name":  "06_r2_c2.png",
-                                              "path":  "stickers/아기코끼리이미지-2/06_r2_c2.png",
-                                              "size":  148288
-                                          },
-                                          {
-                                              "name":  "07_r2_c3.png",
-                                              "path":  "stickers/아기코끼리이미지-2/07_r2_c3.png",
-                                              "size":  149754
-                                          },
-                                          {
-                                              "name":  "08_r2_c4.png",
-                                              "path":  "stickers/아기코끼리이미지-2/08_r2_c4.png",
-                                              "size":  153012
-                                          },
-                                          {
-                                              "name":  "09_r3_c1.png",
-                                              "path":  "stickers/아기코끼리이미지-2/09_r3_c1.png",
-                                              "size":  148629
-                                          },
-                                          {
-                                              "name":  "10_r3_c2.png",
-                                              "path":  "stickers/아기코끼리이미지-2/10_r3_c2.png",
-                                              "size":  150683
-                                          },
-                                          {
-                                              "name":  "11_r3_c3.png",
-                                              "path":  "stickers/아기코끼리이미지-2/11_r3_c3.png",
-                                              "size":  146370
-                                          },
-                                          {
-                                              "name":  "12_r3_c4.png",
-                                              "path":  "stickers/아기코끼리이미지-2/12_r3_c4.png",
-                                              "size":  170704
-                                          },
-                                          {
-                                              "name":  "13_r4_c1.png",
-                                              "path":  "stickers/아기코끼리이미지-2/13_r4_c1.png",
-                                              "size":  154151
-                                          },
-                                          {
-                                              "name":  "14_r4_c2.png",
-                                              "path":  "stickers/아기코끼리이미지-2/14_r4_c2.png",
-                                              "size":  152020
-                                          },
-                                          {
-                                              "name":  "15_r4_c3.png",
-                                              "path":  "stickers/아기코끼리이미지-2/15_r4_c3.png",
-                                              "size":  136444
-                                          },
-                                          {
-                                              "name":  "16_r4_c4.png",
-                                              "path":  "stickers/아기코끼리이미지-2/16_r4_c4.png",
-                                              "size":  156795
                                           }
                                       ]
                         },
