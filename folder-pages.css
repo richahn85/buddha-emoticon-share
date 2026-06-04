@@ -233,3 +233,34 @@ h2 {
   .collection-grid { grid-template-columns: 1fr; }
   .image-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
+.collection-card.is-deleted {
+  opacity: 0.86;
+}
+.deleted-thumb {
+  color: var(--muted);
+  background: linear-gradient(180deg, #f8f1e3, #e9e1d0);
+  font-weight: 900;
+}
+.deleted-thumb span {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.78);
+  padding: 8px 12px;
+}
+.deleted-notice {
+  padding: 42px 0 84px;
+}
+.deleted-panel {
+  max-width: 720px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  padding: 28px;
+}
+.deleted-panel h2 {
+  min-height: auto;
+}
+.deleted-panel p {
+  color: var(--muted);
+}
