@@ -532,441 +532,441 @@ window.STICKER_MANIFEST = {
                                       ]
                         },
                         {
-                            "title":  "동국대학교 120주년 기념 아코 귀염",
-                            "slug":  "동국대학교-120주년-기념-아코-귀염",
+                            "title":  "동국대학교 120주년 기념 아기코끼리 귀염",
+                            "slug":  "동국대학교-120주년-기념-아기코끼리-귀염",
                             "category":  "korean",
-                            "zipPath":  "downloads/동국대학교-120주년-기념-아코-귀염.zip",
+                            "zipPath":  "downloads/동국대학교-120주년-기념-아기코끼리-귀염.zip",
                             "files":  [
                                           {
                                               "name":  "01_r1_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/01_r1_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/01_r1_c1.png",
                                               "size":  150006
                                           },
                                           {
                                               "name":  "02_r1_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/02_r1_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/02_r1_c2.png",
                                               "size":  150786
                                           },
                                           {
                                               "name":  "03_r1_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/03_r1_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/03_r1_c3.png",
                                               "size":  147703
                                           },
                                           {
                                               "name":  "04_r1_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/04_r1_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/04_r1_c4.png",
                                               "size":  138774
                                           },
                                           {
                                               "name":  "05_r2_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/05_r2_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/05_r2_c1.png",
                                               "size":  157983
                                           },
                                           {
                                               "name":  "06_r2_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/06_r2_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/06_r2_c2.png",
                                               "size":  150712
                                           },
                                           {
                                               "name":  "07_r2_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/07_r2_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/07_r2_c3.png",
                                               "size":  147829
                                           },
                                           {
                                               "name":  "08_r2_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/08_r2_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/08_r2_c4.png",
                                               "size":  146982
                                           },
                                           {
                                               "name":  "09_r3_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/09_r3_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/09_r3_c1.png",
                                               "size":  174119
                                           },
                                           {
                                               "name":  "10_r3_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/10_r3_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/10_r3_c2.png",
                                               "size":  142289
                                           },
                                           {
                                               "name":  "11_r3_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/11_r3_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/11_r3_c3.png",
                                               "size":  181518
                                           },
                                           {
                                               "name":  "12_r3_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/12_r3_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/12_r3_c4.png",
                                               "size":  144787
                                           },
                                           {
                                               "name":  "13_r4_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/13_r4_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/13_r4_c1.png",
                                               "size":  152574
                                           },
                                           {
                                               "name":  "14_r4_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/14_r4_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/14_r4_c2.png",
                                               "size":  163823
                                           },
                                           {
                                               "name":  "15_r4_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/15_r4_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/15_r4_c3.png",
                                               "size":  150395
                                           },
                                           {
                                               "name":  "16_r4_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-귀염/16_r4_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-귀염/16_r4_c4.png",
                                               "size":  191268
                                           }
                                       ]
                         },
                         {
-                            "title":  "동국대학교 120주년 기념 아코 불법전법 1",
-                            "slug":  "동국대학교-120주년-기념-아코-불법전법-1",
+                            "title":  "동국대학교 120주년 기념 아기코끼리 불법전법 1",
+                            "slug":  "동국대학교-120주년-기념-아기코끼리-불법전법-1",
                             "category":  "korean",
-                            "zipPath":  "downloads/동국대학교-120주년-기념-아코-불법전법-1.zip",
+                            "zipPath":  "downloads/동국대학교-120주년-기념-아기코끼리-불법전법-1.zip",
                             "files":  [
                                           {
                                               "name":  "01_r1_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/01_r1_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/01_r1_c1.png",
                                               "size":  152560
                                           },
                                           {
                                               "name":  "02_r1_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/02_r1_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/02_r1_c2.png",
                                               "size":  158548
                                           },
                                           {
                                               "name":  "03_r1_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/03_r1_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/03_r1_c3.png",
                                               "size":  175853
                                           },
                                           {
                                               "name":  "04_r1_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/04_r1_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/04_r1_c4.png",
                                               "size":  177261
                                           },
                                           {
                                               "name":  "05_r2_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/05_r2_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/05_r2_c1.png",
                                               "size":  173486
                                           },
                                           {
                                               "name":  "06_r2_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/06_r2_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/06_r2_c2.png",
                                               "size":  154929
                                           },
                                           {
                                               "name":  "07_r2_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/07_r2_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/07_r2_c3.png",
                                               "size":  162328
                                           },
                                           {
                                               "name":  "08_r2_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/08_r2_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/08_r2_c4.png",
                                               "size":  166437
                                           },
                                           {
                                               "name":  "09_r3_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/09_r3_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/09_r3_c1.png",
                                               "size":  154095
                                           },
                                           {
                                               "name":  "10_r3_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/10_r3_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/10_r3_c2.png",
                                               "size":  150520
                                           },
                                           {
                                               "name":  "11_r3_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/11_r3_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/11_r3_c3.png",
                                               "size":  161110
                                           },
                                           {
                                               "name":  "12_r3_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/12_r3_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/12_r3_c4.png",
                                               "size":  168412
                                           },
                                           {
                                               "name":  "13_r4_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/13_r4_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/13_r4_c1.png",
                                               "size":  160270
                                           },
                                           {
                                               "name":  "14_r4_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/14_r4_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/14_r4_c2.png",
                                               "size":  167525
                                           },
                                           {
                                               "name":  "15_r4_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/15_r4_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/15_r4_c3.png",
                                               "size":  153227
                                           },
                                           {
                                               "name":  "16_r4_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-1/16_r4_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-1/16_r4_c4.png",
                                               "size":  155903
                                           }
                                       ]
                         },
                         {
-                            "title":  "동국대학교 120주년 기념 아코 불법전법 2",
-                            "slug":  "동국대학교-120주년-기념-아코-불법전법-2",
+                            "title":  "동국대학교 120주년 기념 아기코끼리 불법전법 2",
+                            "slug":  "동국대학교-120주년-기념-아기코끼리-불법전법-2",
                             "category":  "korean",
-                            "zipPath":  "downloads/동국대학교-120주년-기념-아코-불법전법-2.zip",
+                            "zipPath":  "downloads/동국대학교-120주년-기념-아기코끼리-불법전법-2.zip",
                             "files":  [
                                           {
                                               "name":  "01_r1_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/01_r1_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/01_r1_c1.png",
                                               "size":  153138
                                           },
                                           {
                                               "name":  "02_r1_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/02_r1_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/02_r1_c2.png",
                                               "size":  151726
                                           },
                                           {
                                               "name":  "03_r1_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/03_r1_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/03_r1_c3.png",
                                               "size":  165121
                                           },
                                           {
                                               "name":  "04_r1_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/04_r1_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/04_r1_c4.png",
                                               "size":  173179
                                           },
                                           {
                                               "name":  "05_r2_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/05_r2_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/05_r2_c1.png",
                                               "size":  157594
                                           },
                                           {
                                               "name":  "06_r2_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/06_r2_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/06_r2_c2.png",
                                               "size":  145604
                                           },
                                           {
                                               "name":  "07_r2_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/07_r2_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/07_r2_c3.png",
                                               "size":  147918
                                           },
                                           {
                                               "name":  "08_r2_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/08_r2_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/08_r2_c4.png",
                                               "size":  145358
                                           },
                                           {
                                               "name":  "09_r3_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/09_r3_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/09_r3_c1.png",
                                               "size":  141678
                                           },
                                           {
                                               "name":  "10_r3_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/10_r3_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/10_r3_c2.png",
                                               "size":  146292
                                           },
                                           {
                                               "name":  "11_r3_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/11_r3_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/11_r3_c3.png",
                                               "size":  142931
                                           },
                                           {
                                               "name":  "12_r3_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/12_r3_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/12_r3_c4.png",
                                               "size":  168536
                                           },
                                           {
                                               "name":  "13_r4_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/13_r4_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/13_r4_c1.png",
                                               "size":  160151
                                           },
                                           {
                                               "name":  "14_r4_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/14_r4_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/14_r4_c2.png",
                                               "size":  157677
                                           },
                                           {
                                               "name":  "15_r4_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/15_r4_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/15_r4_c3.png",
                                               "size":  147128
                                           },
                                           {
                                               "name":  "16_r4_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-2/16_r4_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-2/16_r4_c4.png",
                                               "size":  157689
                                           }
                                       ]
                         },
                         {
-                            "title":  "동국대학교 120주년 기념 아코 불법전법 3",
-                            "slug":  "동국대학교-120주년-기념-아코-불법전법-3",
+                            "title":  "동국대학교 120주년 기념 아기코끼리 불법전법 3",
+                            "slug":  "동국대학교-120주년-기념-아기코끼리-불법전법-3",
                             "category":  "korean",
-                            "zipPath":  "downloads/동국대학교-120주년-기념-아코-불법전법-3.zip",
+                            "zipPath":  "downloads/동국대학교-120주년-기념-아기코끼리-불법전법-3.zip",
                             "files":  [
                                           {
                                               "name":  "01_r1_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/01_r1_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/01_r1_c1.png",
                                               "size":  153055
                                           },
                                           {
                                               "name":  "02_r1_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/02_r1_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/02_r1_c2.png",
                                               "size":  155014
                                           },
                                           {
                                               "name":  "03_r1_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/03_r1_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/03_r1_c3.png",
                                               "size":  171856
                                           },
                                           {
                                               "name":  "04_r1_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/04_r1_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/04_r1_c4.png",
                                               "size":  169318
                                           },
                                           {
                                               "name":  "05_r2_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/05_r2_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/05_r2_c1.png",
                                               "size":  170559
                                           },
                                           {
                                               "name":  "06_r2_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/06_r2_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/06_r2_c2.png",
                                               "size":  153319
                                           },
                                           {
                                               "name":  "07_r2_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/07_r2_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/07_r2_c3.png",
                                               "size":  161057
                                           },
                                           {
                                               "name":  "08_r2_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/08_r2_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/08_r2_c4.png",
                                               "size":  149349
                                           },
                                           {
                                               "name":  "09_r3_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/09_r3_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/09_r3_c1.png",
                                               "size":  154412
                                           },
                                           {
                                               "name":  "10_r3_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/10_r3_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/10_r3_c2.png",
                                               "size":  150052
                                           },
                                           {
                                               "name":  "11_r3_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/11_r3_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/11_r3_c3.png",
                                               "size":  150062
                                           },
                                           {
                                               "name":  "12_r3_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/12_r3_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/12_r3_c4.png",
                                               "size":  172201
                                           },
                                           {
                                               "name":  "13_r4_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/13_r4_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/13_r4_c1.png",
                                               "size":  154417
                                           },
                                           {
                                               "name":  "14_r4_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/14_r4_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/14_r4_c2.png",
                                               "size":  162446
                                           },
                                           {
                                               "name":  "15_r4_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/15_r4_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/15_r4_c3.png",
                                               "size":  155323
                                           },
                                           {
                                               "name":  "16_r4_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-3/16_r4_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-3/16_r4_c4.png",
                                               "size":  170695
                                           }
                                       ]
                         },
                         {
-                            "title":  "동국대학교 120주년 기념 아코 불법전법 4",
-                            "slug":  "동국대학교-120주년-기념-아코-불법전법-4",
+                            "title":  "동국대학교 120주년 기념 아기코끼리 불법전법 4",
+                            "slug":  "동국대학교-120주년-기념-아기코끼리-불법전법-4",
                             "category":  "korean",
-                            "zipPath":  "downloads/동국대학교-120주년-기념-아코-불법전법-4.zip",
+                            "zipPath":  "downloads/동국대학교-120주년-기념-아기코끼리-불법전법-4.zip",
                             "files":  [
                                           {
                                               "name":  "01_r1_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/01_r1_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/01_r1_c1.png",
                                               "size":  162105
                                           },
                                           {
                                               "name":  "02_r1_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/02_r1_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/02_r1_c2.png",
                                               "size":  153109
                                           },
                                           {
                                               "name":  "03_r1_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/03_r1_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/03_r1_c3.png",
                                               "size":  164502
                                           },
                                           {
                                               "name":  "04_r1_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/04_r1_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/04_r1_c4.png",
                                               "size":  168713
                                           },
                                           {
                                               "name":  "05_r2_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/05_r2_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/05_r2_c1.png",
                                               "size":  161529
                                           },
                                           {
                                               "name":  "06_r2_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/06_r2_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/06_r2_c2.png",
                                               "size":  143025
                                           },
                                           {
                                               "name":  "07_r2_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/07_r2_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/07_r2_c3.png",
                                               "size":  147120
                                           },
                                           {
                                               "name":  "08_r2_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/08_r2_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/08_r2_c4.png",
                                               "size":  152125
                                           },
                                           {
                                               "name":  "09_r3_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/09_r3_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/09_r3_c1.png",
                                               "size":  145185
                                           },
                                           {
                                               "name":  "10_r3_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/10_r3_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/10_r3_c2.png",
                                               "size":  141030
                                           },
                                           {
                                               "name":  "11_r3_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/11_r3_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/11_r3_c3.png",
                                               "size":  147945
                                           },
                                           {
                                               "name":  "12_r3_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/12_r3_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/12_r3_c4.png",
                                               "size":  157901
                                           },
                                           {
                                               "name":  "13_r4_c1.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/13_r4_c1.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/13_r4_c1.png",
                                               "size":  154737
                                           },
                                           {
                                               "name":  "14_r4_c2.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/14_r4_c2.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/14_r4_c2.png",
                                               "size":  147052
                                           },
                                           {
                                               "name":  "15_r4_c3.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/15_r4_c3.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/15_r4_c3.png",
                                               "size":  142680
                                           },
                                           {
                                               "name":  "16_r4_c4.png",
-                                              "path":  "stickers/동국대학교-120주년-기념-아코-불법전법-4/16_r4_c4.png",
+                                              "path":  "stickers/동국대학교-120주년-기념-아기코끼리-불법전법-4/16_r4_c4.png",
                                               "size":  146061
                                           }
                                       ]
@@ -2468,127 +2468,127 @@ window.STICKER_MANIFEST = {
                                       ]
                         },
                         {
-                            "title":  "아코이미지 1",
-                            "slug":  "아코이미지-1",
+                            "title":  "아기코끼리이미지 1",
+                            "slug":  "아기코끼리이미지-1",
                             "category":  "dharma",
-                            "zipPath":  "downloads/아코이미지-1.zip",
+                            "zipPath":  "downloads/아기코끼리이미지-1.zip",
                             "files":  [
                                           {
                                               "name":  "01_r1_c1.png",
-                                              "path":  "stickers/아코이미지-1/01_r1_c1.png",
+                                              "path":  "stickers/아기코끼리이미지-1/01_r1_c1.png",
                                               "size":  302973
                                           },
                                           {
                                               "name":  "02_r1_c2.png",
-                                              "path":  "stickers/아코이미지-1/02_r1_c2.png",
+                                              "path":  "stickers/아기코끼리이미지-1/02_r1_c2.png",
                                               "size":  331639
                                           },
                                           {
                                               "name":  "03_r1_c3.png",
-                                              "path":  "stickers/아코이미지-1/03_r1_c3.png",
+                                              "path":  "stickers/아기코끼리이미지-1/03_r1_c3.png",
                                               "size":  325144
                                           },
                                           {
                                               "name":  "04_r2_c1.png",
-                                              "path":  "stickers/아코이미지-1/04_r2_c1.png",
+                                              "path":  "stickers/아기코끼리이미지-1/04_r2_c1.png",
                                               "size":  270242
                                           },
                                           {
                                               "name":  "05_r2_c2.png",
-                                              "path":  "stickers/아코이미지-1/05_r2_c2.png",
+                                              "path":  "stickers/아기코끼리이미지-1/05_r2_c2.png",
                                               "size":  316479
                                           },
                                           {
                                               "name":  "06_r2_c3.png",
-                                              "path":  "stickers/아코이미지-1/06_r2_c3.png",
+                                              "path":  "stickers/아기코끼리이미지-1/06_r2_c3.png",
                                               "size":  322609
                                           }
                                       ]
                         },
                         {
-                            "title":  "아코이미지 2",
-                            "slug":  "아코이미지-2",
+                            "title":  "아기코끼리이미지 2",
+                            "slug":  "아기코끼리이미지-2",
                             "category":  "dharma",
-                            "zipPath":  "downloads/아코이미지-2.zip",
+                            "zipPath":  "downloads/아기코끼리이미지-2.zip",
                             "files":  [
                                           {
                                               "name":  "01_r1_c1.png",
-                                              "path":  "stickers/아코이미지-2/01_r1_c1.png",
+                                              "path":  "stickers/아기코끼리이미지-2/01_r1_c1.png",
                                               "size":  145760
                                           },
                                           {
                                               "name":  "02_r1_c2.png",
-                                              "path":  "stickers/아코이미지-2/02_r1_c2.png",
+                                              "path":  "stickers/아기코끼리이미지-2/02_r1_c2.png",
                                               "size":  143000
                                           },
                                           {
                                               "name":  "03_r1_c3.png",
-                                              "path":  "stickers/아코이미지-2/03_r1_c3.png",
+                                              "path":  "stickers/아기코끼리이미지-2/03_r1_c3.png",
                                               "size":  164970
                                           },
                                           {
                                               "name":  "04_r1_c4.png",
-                                              "path":  "stickers/아코이미지-2/04_r1_c4.png",
+                                              "path":  "stickers/아기코끼리이미지-2/04_r1_c4.png",
                                               "size":  170342
                                           },
                                           {
                                               "name":  "05_r2_c1.png",
-                                              "path":  "stickers/아코이미지-2/05_r2_c1.png",
+                                              "path":  "stickers/아기코끼리이미지-2/05_r2_c1.png",
                                               "size":  168048
                                           },
                                           {
                                               "name":  "06_r2_c2.png",
-                                              "path":  "stickers/아코이미지-2/06_r2_c2.png",
+                                              "path":  "stickers/아기코끼리이미지-2/06_r2_c2.png",
                                               "size":  148288
                                           },
                                           {
                                               "name":  "07_r2_c3.png",
-                                              "path":  "stickers/아코이미지-2/07_r2_c3.png",
+                                              "path":  "stickers/아기코끼리이미지-2/07_r2_c3.png",
                                               "size":  149754
                                           },
                                           {
                                               "name":  "08_r2_c4.png",
-                                              "path":  "stickers/아코이미지-2/08_r2_c4.png",
+                                              "path":  "stickers/아기코끼리이미지-2/08_r2_c4.png",
                                               "size":  153012
                                           },
                                           {
                                               "name":  "09_r3_c1.png",
-                                              "path":  "stickers/아코이미지-2/09_r3_c1.png",
+                                              "path":  "stickers/아기코끼리이미지-2/09_r3_c1.png",
                                               "size":  148629
                                           },
                                           {
                                               "name":  "10_r3_c2.png",
-                                              "path":  "stickers/아코이미지-2/10_r3_c2.png",
+                                              "path":  "stickers/아기코끼리이미지-2/10_r3_c2.png",
                                               "size":  150683
                                           },
                                           {
                                               "name":  "11_r3_c3.png",
-                                              "path":  "stickers/아코이미지-2/11_r3_c3.png",
+                                              "path":  "stickers/아기코끼리이미지-2/11_r3_c3.png",
                                               "size":  146370
                                           },
                                           {
                                               "name":  "12_r3_c4.png",
-                                              "path":  "stickers/아코이미지-2/12_r3_c4.png",
+                                              "path":  "stickers/아기코끼리이미지-2/12_r3_c4.png",
                                               "size":  170704
                                           },
                                           {
                                               "name":  "13_r4_c1.png",
-                                              "path":  "stickers/아코이미지-2/13_r4_c1.png",
+                                              "path":  "stickers/아기코끼리이미지-2/13_r4_c1.png",
                                               "size":  154151
                                           },
                                           {
                                               "name":  "14_r4_c2.png",
-                                              "path":  "stickers/아코이미지-2/14_r4_c2.png",
+                                              "path":  "stickers/아기코끼리이미지-2/14_r4_c2.png",
                                               "size":  152020
                                           },
                                           {
                                               "name":  "15_r4_c3.png",
-                                              "path":  "stickers/아코이미지-2/15_r4_c3.png",
+                                              "path":  "stickers/아기코끼리이미지-2/15_r4_c3.png",
                                               "size":  136444
                                           },
                                           {
                                               "name":  "16_r4_c4.png",
-                                              "path":  "stickers/아코이미지-2/16_r4_c4.png",
+                                              "path":  "stickers/아기코끼리이미지-2/16_r4_c4.png",
                                               "size":  156795
                                           }
                                       ]
